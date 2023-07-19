@@ -58,7 +58,7 @@ Control pagination of the search results by specifying the following two propert
 
 - **from** - An integer that indicates the 0-based starting point to list search results on the page. The default value is 0.
 
-- **size** - An integer that indicates the number of results to be returned for a page. The default is 25 results. The maximum is 1000 results.
+- **size** - An integer that indicates the number of results to be returned for a page. The default is 25 results. The maximum is 500 results.
 
 Note the following limits if you're searching the **event** or **message** entity:
 
